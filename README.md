@@ -1,7 +1,11 @@
 lmw
 ===
 
-Lojbanic MediaWiki issues:
+## Lojbanic MediaWiki issues
+* editing pages is slow. emailing problems?
+* Metrolook has bugs like https://github.com/paladox/Metrolook/issues/109
+
+## Migrating
 
 for the new location of it:
 
