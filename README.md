@@ -11,7 +11,7 @@ lmw
 * http://mw.lojban.org/papri/Talk:proga:LMW_-_Lojbanic_MediaWiki
 ## Other places reporting issues
 * http://mw.lojban.org/papri/proga:LMW_-_Lojbanic_MediaWiki#ToDo_and_the_future_of_le_uitki
-* 
+
 ## Migrating
 
 for the new location of it:
