@@ -1,4 +1,4 @@
-lmw
+http://mw.lojban.org
 ===
 
 ## Lojbanic MediaWiki issues
